@@ -19,6 +19,7 @@
 }
 
 .Dictionary .hint {
-  font-size: 11px;
+  font-size: 12px;
   margin-top: 5px;
+  letter-spacing: 0.5px;
 }
